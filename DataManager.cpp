@@ -16,3 +16,4 @@ void DataManager::test()
     log("HelloSIngelton");
 }
 //abcdefg
+//thtyjgf{{{sdddsg}}}
