@@ -15,3 +15,4 @@ void DataManager::test()
 {
     log("HelloSIngelton");
 }
+//abcdefg
